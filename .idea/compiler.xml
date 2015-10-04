@@ -24,12 +24,14 @@
         <processorPath useClasspath="true" />
         <module name="JournalDev" />
         <module name="Mkyong" />
+        <module name="SpringbyexampleOrg" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="JournalDev" target="1.8" />
       <module name="Mkyong" target="1.8" />
       <module name="Spring" target="1.8" />
+      <module name="SpringbyexampleOrg" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
