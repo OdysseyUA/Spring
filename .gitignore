@@ -1,0 +1,14 @@
+# Maven-generated
+/target/
+
+# IDEA project
+.idea
+/out/
+*.iml
+
+/META-INF/
+/lib/
+
+
+/test/reports/
+/velocity.log
